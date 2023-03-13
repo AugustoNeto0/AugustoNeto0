@@ -1,4 +1,4 @@
-### Olá, eu sou José Augusto, sou desenvolvedor front-end, formado na [Trybe](https://www.betrybe.com/), e atualmente completando o curso de back-end.
+### Olá, eu sou José Augusto, sou desenvolvedor full stack, formado na [Trybe](https://www.betrybe.com/).
 
 Onde me encontrar:
 
