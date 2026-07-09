@@ -1,20 +1,43 @@
-### Olá, eu sou José Augusto, sou desenvolvedor full stack, formado na [Trybe](https://www.betrybe.com/).
+# Olá, eu sou José Augusto
 
-Onde me encontrar:
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em formação, com foco no desenvolvimento de aplicações web e na construção de soluções utilizando boas práticas de engenharia de software.
 
-<a href="https://www.linkedin.com/in/augustonet/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+Concluí a formação em **Desenvolvimento Web Full Stack pela Trybe**, onde desenvolvi projetos práticos envolvendo front-end, back-end e bancos de dados
 
-<a href="https://twitter.com/jaugusto_n"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+Neste perfil você encontrará projetos acadêmicos e pessoais que refletem minha evolução como desenvolvedor, além de estudos contínuos em novas tecnologias e ferramentas.
 
-- E-mail: jaaugusto.n@gmail.com
+---
 
-### Linguagens de Programação, Frameworks, databases e outros:
+## 🚀 Tecnologias
 
-- Javascript
-- HTML
-- CSS
-- React
-- Node.js
-- Typescript
+### 💻 Linguagens
+- PHP
+- Python
+- JavaScript
+- SQL
+- Kotlin
+
+### ⚙️ Frameworks
+- Laravel
+- Vue.js
+
+### 🗄️ Banco de Dados
 - MySQL
-- Jest
+
+### 🛠️ Ferramentas
+- Git
+- GitHub
+
+---
+
+## 🎓 Formação
+
+- **Análise e Desenvolvimento de Sistemas** — UNIJORGE
+- **Desenvolvimento Web Full Stack** — Trybe
+
+---
+
+## 📫 Contato
+
+- **LinkedIn:** https://www.linkedin.com/in/augustonet/
+- **E-mail:** jaaugusto.n@gmail.com
